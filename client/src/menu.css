@@ -1,0 +1,12 @@
+/* Change color of dropdown links on hover */
+.dropdown-menu a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-menu {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropdown-toggle {background-color: #161e6d;}
+
+.nav-item:hover{
+    background-color: #161e6d;
+}
